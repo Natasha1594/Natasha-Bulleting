@@ -50,7 +50,7 @@ def get_newsource(category):
 
 def process_results(newsource_list):
     '''
-    Function  that processes the new source result and transform them to a list of Objects
+    This is the function  that processes the new source result and transform them to a list of Objects
 
     Args:
         newsource_list: A list of dictionaries that contain news source details
