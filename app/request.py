@@ -30,7 +30,7 @@ def configure_request(app):
 
 def get_newsource(category):
     '''
-    Function that gets the json response to our url request
+    This is the function that gets the json response to our url request
     '''
     get_newsource_url = base_url.format(category,api_key)
     print(get_newsource_url)
