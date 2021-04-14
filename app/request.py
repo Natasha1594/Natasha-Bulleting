@@ -143,7 +143,7 @@ def get_topheadlines(limit):
 
 def get_everything(limit):
     '''
-    Function that gets the json response to our url request
+    This is the function that gets the json response to our url request
     '''
     get_everything_url = everything_url.format(limit,api_key)
     print(get_everything_url)
