@@ -1,4 +1,4 @@
-/* Navbar Styling */
+    /* Navbar Styling */
 
 .inline {
     display: inline;
@@ -238,3 +238,7 @@ div.card.article {
         height: inherit;
     }
 }
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
