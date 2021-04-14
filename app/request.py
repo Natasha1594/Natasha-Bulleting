@@ -123,7 +123,7 @@ def process_articles(articles_list):
 
 def get_topheadlines(limit):
     '''
-    Function that gets the json response to our url request
+    This is the function that gets the json response to our url request
     '''
     get_topheadlines_url = topheadline_url.format(limit,api_key)
     print(get_topheadlines_url)
