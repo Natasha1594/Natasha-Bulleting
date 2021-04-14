@@ -13,7 +13,7 @@ class Source:
 
 class Article:
     '''
-    The article class to define News Articles Objects
+    This is the article class that defines News Articles Objects
     '''
     def __init__(self,author,title,description,url,urlToImage,publishedAt):
         self.author = author
