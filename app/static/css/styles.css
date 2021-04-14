@@ -234,6 +234,7 @@
     }
     
     .fa-facebook {
-        background: #3B5998;
-        color: white;
+        color: #007bff;
+        text-decoration: none;
+        background-color: transparent;
     }
